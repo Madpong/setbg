@@ -6,4 +6,6 @@ You need `wget` and `curl` installed on your system.
 
 # Use
 
+```shell=
 curl -s -L https://raw.githubusercontent.com/Madpong/setbg/master/custombgall.sh | bash
+```
