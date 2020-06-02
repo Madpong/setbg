@@ -6,4 +6,4 @@ wget -P /home/digiadmin/Downloads https://265779-825590-raikfcquaxqncofqfm.stack
 
 sudo mv /home/digiadmin/Downloads/digilocal-1920-1080.png /usr/share/backgrounds/warty-final-ubuntu.png
 
-echo holaa
+sudo chmod 644 /usr/share/backgrounds/warty-final-ubuntu.png
