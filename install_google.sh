@@ -4,4 +4,4 @@ wget -P /home/digiadmin/Downloads https://dl.google.com/linux/direct/google-chro
  
 sudo gdebi /home/digiadmin/Downloads/google-chrome-stable_current_amd64.deb --non-interactive
 
-rm /home/digiadmin/Downloads/google-chrome-stable_current_amd64.deb
+##rm /home/digiadmin/Downloads/google-chrome-stable_current_amd64.deb
