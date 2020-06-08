@@ -1,3 +1,4 @@
+#!/bin/sh
 
 wget -P /home/digiadmin/Downloads https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
  
